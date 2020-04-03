@@ -1,3 +1,3 @@
-# TestNGAllureReport
-TestNGAllureReport
+# AllureReport
+
 
